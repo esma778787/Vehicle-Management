@@ -1,0 +1,8 @@
+C:\Users\DARK\Desktop\Araçlar\Araçlar\bin\Debug\Araçlar.exe.config
+C:\Users\DARK\Desktop\Araçlar\Araçlar\bin\Debug\Araçlar.exe
+C:\Users\DARK\Desktop\Araçlar\Araçlar\bin\Debug\Araçlar.pdb
+C:\Users\DARK\Desktop\Araçlar\Araçlar\obj\Debug\Araçlar.csproj.AssemblyReference.cache
+C:\Users\DARK\Desktop\Araçlar\Araçlar\obj\Debug\Araçlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DARK\Desktop\Araçlar\Araçlar\obj\Debug\Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\DARK\Desktop\Araçlar\Araçlar\obj\Debug\Araçlar.exe
+C:\Users\DARK\Desktop\Araçlar\Araçlar\obj\Debug\Araçlar.pdb
